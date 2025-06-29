@@ -5,8 +5,9 @@ An Arduino-based smart pet feeder system that uses a real-time clock (DS3231), s
 ## Developed By
 **Gayathri G**  
 GitHub: [GAYATHRI1006](https://github.com/GAYATHRI1006)
+
 ## Screenshot
-![Smart Pet Feeder Screenshot](image.png)
+![Smart Pet Feeder Screenshot](image.jpg)
 
 ## Features
 
