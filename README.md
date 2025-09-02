@@ -1,3 +1,6 @@
+# Automatic Pet Feeder
+
+An Arduino-based smart pet feeder system that uses a real-time clock (DS3231), servo motor, 16x2 LCD, and keypad to schedule pet feeding times and automate the feeding process.
 
 ## Developed By
 **Gayathri G**  
